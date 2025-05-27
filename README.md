@@ -9,8 +9,8 @@ In the top-left corner of the screen, you’ll see the flicker bar. By holding t
 <h2>How you can play 🎮 </h2>
 
 <div align="center">
-  <a href="https://danielnakhooda.com/games/Space/SpaceHome.html" align="center">
-    <h3>Click here to play 🚀 Space 👾 </h3>
+  <a href="https://danielnakhooda.com/games/Space/SpaceHome.html">
+    Click here to play 🚀 Space 👾
   </a>
 </div>
 
