@@ -6,7 +6,7 @@
 In the top-left corner of the screen, you’ll see the flicker bar. By holding the "F" key, you can activate your flicker ability. Flickering lets you pass through obstacles without dying—but use it wisely, as it takes a while to recharge.
 </p>
 
-<h2>How you can play 🎮 </h2>
+<h2>How You Can Play 🎮 </h2>
 
 <div align="center">
   <h3>
